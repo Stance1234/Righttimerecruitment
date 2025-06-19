@@ -7,3 +7,4 @@ import ApplicationForm from './ApplicationForm';
 import Footer2 from './Footer/Footer2';
 
 export { Header, Footer, Team, Applicationprocess, Whychoose, ApplicationForm, Footer2 };
+export { default as Navbar } from "./Navbar/Navbar";
