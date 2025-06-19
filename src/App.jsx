@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Home from "./Pages/Home";
 import Apply from "./Pages/Apply";
-import { Footer, Navbar } from "./Componenets";
+import Navbar from "./Componenets/Navbar/Navbar";
 
 import "./App.css"; // Make sure to import your CSS
 
